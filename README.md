@@ -1,2 +1,2 @@
-# B
+# BridgeLMS
 Our final demo project 
